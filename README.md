@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucio Ruiz Díaz</h1>
 <h3 align="center">A Computer Sciente student from Argentina</h3>
 
-- 🌱 I’m currently **in my first year of college at UBA**
+- 🌱 I’m currently **in my second year of college at UBA**
 
 - 📫 How to reach me **luciotadeo02@gmail.com**
 
