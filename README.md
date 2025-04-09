@@ -10,7 +10,7 @@
 
 <br><br>
 - :school: I am currently in my second year of [Computer Science](https://www.dc.uba.ar) at [Faculty of Exact and Natural Sciences](https://exactas.uba.ar), [Universidad de Buenos Aires](https://www.uba.ar).
-- :student: I’m currently taking `Algorithms and Data Structures II`, `Java` and `LaTeX`.
+- :student: I’m currently taking `Algorithms and Data Structures II`, learning `Java` and `LaTeX`.
 - 💡I'm also a certified electronics technician.
 - 🎸 Outside tech-life I love listening and making music [this is my band!](https://open.spotify.com/intl-es/artist/7jpgANuYPpYcQ5jiETHjWj)
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1eamEsr3yAV9Kee84msmDRtE5rOqJS1X5/view?usp=sharing).
