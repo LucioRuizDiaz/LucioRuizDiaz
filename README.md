@@ -13,7 +13,7 @@
 - :student: I’m currently taking `Algorithms and Data Structures II`, learning `Java` and `LaTeX`.
 - 💡I'm also a certified electronics technician.
 - 🎸 Outside tech-life I love listening and making music [this is my band!](https://open.spotify.com/intl-es/artist/7jpgANuYPpYcQ5jiETHjWj)
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/16PS3e1iko0g6yrvno-YxXpwwhuGysu6h/view?usp=sharing).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1e-bu7jBxmWk9FWi_6jD-GzKCgNjhhxP2/view?usp=sharing).
 - 📫 Reach out to me at: <a href="luciotadeo02@gmail.com">luciotadeo02@gmail.com</a>
 <br>
 
